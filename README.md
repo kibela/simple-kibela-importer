@@ -4,7 +4,8 @@ Simple Kibela Importer
 ローカルにあるMarkdownファイルを簡単にKibelaにインポートするためのスクリプトです。
 
 Kibelaはいくつかのサービスからのデータのインポートをサポートしています。
-https://support.kibe.la/hc/ja/sections/360007730912
+
+[Kibelaヘルプセンター:インポートの共通仕様](https://support.kibe.la/hc/ja/articles/360035052772-%E3%82%A4%E3%83%B3%E3%83%9D%E3%83%BC%E3%83%88%E3%81%AE%E5%85%B1%E9%80%9A%E4%BB%95%E6%A7%98)
 
 Simple Kibela Importerを使うと、Kibelaが直接サポートしていないサービスからも記事のインポートを行えます。
 
